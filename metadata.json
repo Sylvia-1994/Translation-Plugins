@@ -1,0 +1,5 @@
+{
+  "name": "LinguaFlow - AI Translation Plugin",
+  "description": "A simulation of a browser extension for real-time text selection translation and AI-assisted writing using Google Gemini.",
+  "requestFramePermissions": []
+}
